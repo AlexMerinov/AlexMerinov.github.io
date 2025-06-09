@@ -1,0 +1,30 @@
+@font-face {
+	font-family: 'GothamPro';
+	src: local('GothamPro Black'), local('GothamPro-Black'),
+	url('../fonts/GothamPro-Black.woff2') format('woff2'),
+	url('../fonts/GothamPro-Black.woff') format('woff');
+	font-weight: 800;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Geometria';
+	src: local('Geometria Medium'), local('Geometria-Medium'),
+	url('../fonts/Geometria-Medium.woff2') format('woff2'),
+	url('../fonts/Geometria-Medium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Geometria';
+	src: local('Geometria Regular'), local('Geometria-Regular'),
+	url('../fonts/Geometria-Regular.woff2') format('woff2'),
+	url('../fonts/Geometria-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
